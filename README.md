@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VasileDev
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning js
+- 📫 How to reach me vasile.vio200@gmail.com
