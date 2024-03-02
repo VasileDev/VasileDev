@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VasileDev
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning js
+- 👀 Frontend: html, css & js
+- 🌱 C/C++, Python 
 - 📫 How to reach me vasile.vio200@gmail.com
