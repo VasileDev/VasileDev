@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @VasileDev
-- 👀 Frontend: html, css & js
-- 🌱 C/C++, Python 
-- 📫 How to reach me vasile.vio200@gmail.com
+Fan of Meta
