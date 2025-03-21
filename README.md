@@ -1,1 +1,2 @@
-Fan of Meta
+Python, C/C++
+Html, Css, Js, Flask
